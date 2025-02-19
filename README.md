@@ -1,0 +1,1 @@
+This repository contains a simple example demonstrating an issue with Tailwind CSS gradient backgrounds, where the gradient is not displayed correctly. The solution provided fixes the issue, ensuring the gradient is rendered properly. This could be due to several reasons, including incorrect syntax, missing dependencies, or conflicts with other CSS rules.
